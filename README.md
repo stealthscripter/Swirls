@@ -1,6 +1,5 @@
 **Web page to pig Game**
 
-https://natnaelayele.github.io/pig-roll-game/
 
 
 # Pig Game Enhancement
