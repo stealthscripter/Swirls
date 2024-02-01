@@ -6,7 +6,7 @@
 
 ## Overview
 
- Inspired by **Jonasschmedtmann** whose js instructor and online teacher
+ Inspired by **@jonasschmedtmann** whose js instructor and online teacher
 
 
 This project is an enhancement of a simple Pig game implementation. The Pig game is a classic dice game where players take turns rolling dice to accumulate points while trying to avoid rolling a 1 and losing all their points. This README will provide an overview of the enhancements made to the game, how to run the code, and how to contribute to the project.
